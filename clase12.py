@@ -7,3 +7,8 @@ elif x == 5:
 
 else:
     print('x es menor 5')
+
+
+y = '98'
+
+print(y)
